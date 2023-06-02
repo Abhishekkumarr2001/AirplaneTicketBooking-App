@@ -10,7 +10,7 @@ The Airplane Ticket Booking App is a comprehensive mobile application developed 
 * The Home screen can showcase enticing offers and deals, encouraging users to explore and book their next travel experience.
 * Here's an example of the Home screen with the search option, upcoming flights, and hotels, along with attractive offers:
 
-![home_screen](https://github.com/Abhishekkumarr2001/AirplaneTicketBooking-App/assets/107580567/8c37ccd5-d07e-4e7c-9f97-d78bc2157db0)
+<img src="https://github.com/Abhishekkumarr2001/AirplaneTicketBooking-App/assets/107580567/8c37ccd5-d07e-4e7c-9f97-d78bc2157db0" width="300" height="650">
 
 
 ### Search Screen:
@@ -21,7 +21,7 @@ The Airplane Ticket Booking App is a comprehensive mobile application developed 
 * Additionally, users can view upcoming flights relevant to their search, providing them with more choices and potential discounts.
 * Here's an example of the Search screen, featuring a flight search form and a list of available flights, along with upcoming flights and offers:
 
-![search_screen](https://github.com/Abhishekkumarr2001/AirplaneTicketBooking-App/assets/107580567/239432bf-0cee-4f7e-8d10-bf648a359a24)
+<img src="https://github.com/Abhishekkumarr2001/AirplaneTicketBooking-App/assets/107580567/239432bf-0cee-4f7e-8d10-bf648a359a24" width="300" height="650">
 
 ### Ticket Screen:
 
@@ -31,7 +31,7 @@ The Airplane Ticket Booking App is a comprehensive mobile application developed 
 * Users can easily access their e-ticket from this screen, making it convenient for check-in and boarding processes.
 * Here's an example of the Ticket screen, showcasing a fully detailed flight ticket:
 
-![ticket_screen](https://github.com/Abhishekkumarr2001/AirplaneTicketBooking-App/assets/107580567/4fcc0a90-9c43-4150-a0ff-ec2230038387)
+<img src="https://github.com/Abhishekkumarr2001/AirplaneTicketBooking-App/assets/107580567/4fcc0a90-9c43-4150-a0ff-ec2230038387" width="300" height="650">
 
 
 ### Profile Screen:
@@ -42,7 +42,6 @@ The Airplane Ticket Booking App is a comprehensive mobile application developed 
 * Additionally, users can access any coupons or discounts they have won through ticket bookings, making it easy to redeem offers.
 * Here's an example of the Profile screen, demonstrating the travel statistics, awards, and coupons section:
 
-![profile_screen](https://github.com/Abhishekkumarr2001/AirplaneTicketBooking-App/assets/107580567/dfa9467f-a6f7-464c-9120-1be0852d9703)
-
+<img src="https://github.com/Abhishekkumarr2001/AirplaneTicketBooking-App/assets/107580567/dfa9467f-a6f7-464c-9120-1be0852d9703" width="300" height="650">
 
 #### Overall, the Airplane Ticket Booking App combines a user-friendly interface, comprehensive search functionality, detailed ticket information, and a personalized profile section to deliver a seamless travel booking experience. Whether users are planning a vacation or a business trip, the app empowers them to make informed decisions, find the best flight options, and track their travel achievements along the way.
